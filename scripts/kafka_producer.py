@@ -48,4 +48,3 @@ def produce_messages():
 if __name__ == "__main__":
     print("Starting Kafka Producer for Stock Market Data...")
     produce_messages()
- 
